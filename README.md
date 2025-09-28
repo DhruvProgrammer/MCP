@@ -1,4 +1,4 @@
-# MCP
+
 <h1 align="center">🛠️ MCP Leave Manager Server</h1>
 <p align="center">A beginner-friendly guide to setting up your first MCP server using Python, UV, VS Code, and Claude AI.</p>
 <hr/>
